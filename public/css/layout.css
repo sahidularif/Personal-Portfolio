@@ -201,7 +201,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #01171d;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -1065,7 +1065,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
+   background: #01171d;
    padding-top: 96px;
    padding-bottom: 102px;
    color: #636363;

@@ -35,16 +35,7 @@ class Resume extends Component {
       </div>
 
 
-      <div className="row work">
-
-         <div className="three columns header-col">
-            <h1><span>Work</span></h1>
-         </div>
-
-         <div className="nine columns main-col">
-          {work}
-        </div>
-    </div>
+     
 
 
 
@@ -64,18 +55,10 @@ class Resume extends Component {
               <i className="devicon-css3-plain-wordmark colored technology"></i>
               <i className="devicon-sass-original  technology"></i>
               <i className="devicon-html5-plain-wordmark colored technology"></i>
-              <i className="devicon-ruby-plain-wordmark technology"></i>
               <i className="devicon-javascript-plain colored technology"></i>
-              <i className="devicon-postgresql-plain-wordmark  technology"></i>
-              <i className="devicon-webpack-plain colored technology"></i>
-              <i className="devicon-rails-plain-wordmark technology"></i>
               <i className="devicon-react-plain-wordmark colored technology"></i>
-              <i className="devicon-php-plain technology"></i>
-              <i className="devicon-laravel-plain-wordmark colored technology"></i>
-              <i className="devicon-docker-plain-wordmark technology"></i>
               <i className="devicon-mysql-plain-wordmark colored technology"></i>
               <i className="devicon-github-original technology"></i>
-              <i className="devicon-amazonwebservices-plain-wordmark colored technology"></i>
             </div>
           </section>
 				</div>
